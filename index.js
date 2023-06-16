@@ -60,7 +60,7 @@ function isEmptyString(str) {
 
 console.log("Завдання 5 ====================================");
 console.log('isEmptyString("")', isEmptyString("")); // Виведе: true
-console.log('isEmptyString("Hello")', isEmptyString("Hello")); // Виведе: false
+console.log('isEmptyString("Hello")', isEmptyString("Hello")); // Виведе: false  
 
 // Задача 6: Напишіть функцію checkDataType, яка приймає параметр value і перевіряє його тип даних. Функція повинна використовувати оператор typeof для визначення типу значення.
 // Виведіть в консоль повідомлення з результатом перевірки типу, наприклад, Значення "hello" має тип "string"
